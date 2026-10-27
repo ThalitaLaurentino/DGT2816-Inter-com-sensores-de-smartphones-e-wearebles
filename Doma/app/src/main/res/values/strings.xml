@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Doma Assist</string>
+
+    <string name="audio_status">Saída de áudio: %1$s</string>
+    <string name="audio_status_none">Nenhuma saída de áudio disponível</string>
+
+    <string name="alert_channel_name">Alertas de segurança</string>
+    <string name="alert_notification_title">Alerta de segurança</string>
+    <string name="notification_speech">Notificação: %1$s</string>
+
+    <string name="msg_reminder_1">Lembrete: reunião de equipe às 14h</string>
+    <string name="msg_reminder_2">Notificação: novo comunicado interno</string>
+    <string name="msg_bluetooth_connected">Fone de ouvido Bluetooth conectado</string>
+    <string name="msg_bluetooth_disconnected">Fone de ouvido Bluetooth desconectado</string>
+
+    <string name="new_message_title">Nova mensagem</string>
+    <string name="hint_double_tap">Toque 2x para falar</string>
+    <string name="new_message_prompt">Nova mensagem. Deseja ouvir?</string>
+    <string name="new_message_retry">Não entendi. Deseja ouvir a mensagem? Responda sim ou não.</string>
+    <string name="message_ignored">Tudo bem.</string>
+    <string name="no_new_messages">Nenhuma mensagem nova.</string>
+    <string name="complication_text">Doma</string>
+    <string name="complication_description">Abrir Doma Assist</string>
+    <string name="tile_hint">Toque em qualquer lugar para abrir</string>
+
+    <string-array name="incoming_messages">
+        <item>Mensagem de Ana: a reunião foi antecipada para as 13h30</item>
+        <item>Lembrete: pausa para hidratação</item>
+        <item>Alerta de segurança: teste de evacuação às 16h</item>
+        <item>Novo comunicado interno disponível no mural</item>
+        <item>Mensagem de Carlos: o treinamento começa em 15 minutos</item>
+    </string-array>
+
+    <string name="listening">Ouvindo…</string>
+    <string name="startup_speech">Doma Assist. Toque duas vezes na tela para falar um comando.</string>
+    <string name="alert_message">Alerta de segurança! Dirija-se ao ponto de encontro.</string>
+    <string name="command_not_recognized">Comando não reconhecido: %1$s</string>
+    <string name="time_speech">São %1$d horas e %2$d minutos</string>
+    <string name="time_speech_exact">São %1$d horas em ponto</string>
+    <string name="tts_unavailable">Leitura de voz indisponível</string>
+    <string name="mic_permission_denied">Permissão de microfone negada</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lista de Tarefas</string>
+    <string name="add_task">Adicionar tarefa</string>
+    <string name="new_task">Nova tarefa %1$d</string>
+    <string name="task_example_1">Revisar relatório de sensores</string>
+    <string name="task_example_2">Responder mensagens da equipe</string>
+    <string name="task_example_3">Testar app no emulador Wear OS</string>
+</resources>
